@@ -8,7 +8,7 @@ Summary:	Auth::GoogleAuth - Google Authenticator TOTP abstraction
 Summary(pl.UTF-8):	Auth::GoogleAuth - uproszczony interfejs do TOTP z Google Authenticatora
 Name:		perl-Auth-GoogleAuth
 Version:	1.10
-Release:	3
+Release:	4
 License:	Artistic v2.0
 Group:		Development/Languages/Perl
 Source0:	https://www.cpan.org/authors/id/G/GR/GRYPHON/%{pdir}-%{pnam}-%{version}.tar.gz
